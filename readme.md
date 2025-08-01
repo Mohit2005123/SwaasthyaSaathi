@@ -1,4 +1,4 @@
-# 🩺 WhatsApp OCR + Voice Healthcare Bot
+# 🩺 Swaasthya-Saathi
 
 This is a full-stack Node.js-based WhatsApp bot that helps users understand their prescriptions. It supports **OCR**, **voice interaction in Indian languages**, and **multilingual audio summaries**. Built for accessibility and simplicity, the bot extracts medical information from prescription images and allows voice-based follow-up questions — with replies in **regional Indian languages** using **Sarvam AI** and **LLaMA 4 Scout**.
 
