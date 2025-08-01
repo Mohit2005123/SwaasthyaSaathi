@@ -1,0 +1,5 @@
+backend/.git
+frontend/node_modules
+frontend/swaasthya-saathi-frontend/node_modules
+frontend/swaasthya-saathi-frontend/.git
+frontend/swaasthya-saathi-frontend/dist
