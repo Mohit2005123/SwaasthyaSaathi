@@ -81,7 +81,7 @@ Copy the `https://...ngrok.io` URL and paste it into your `.env` as `NGROK_DOMAI
 You can interact with the deployed bot via Twilio or our frontend:
 
 #### 1. Join our WhatsApp sandbox:
-   - Text **`join book-hope`** to **`+14155238886`** on WhatsApp
+   - Text **`join fat-welcome.`** to **`+14155238886`** on WhatsApp
 #### 2. Send a **prescription image** to begin
 #### 3. Select your preferred **language** via reply
 #### 4. Ask follow-up **voice note questions**

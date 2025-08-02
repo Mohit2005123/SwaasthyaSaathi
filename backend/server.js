@@ -300,7 +300,7 @@ app.post('/whatsapp-webhook', async (req, res) => {
         messages: [
           {
             role: 'user',
-            content: `You are a helpful healthcare assistant. The following is a prescription summary:\n\n"${prevSummary}"\n\nNow, the user asked:\n"${transcript}"\n\nBased on the prescription and question, provide a simple, helpful response.`
+            content: `You are a helpful healthcare assistant. The following is a prescription summary:\n\n"${prevSummary}"\n\nNow, the user asked:\n"${transcript}"\n\nBased on the prescription and question, provide a simple, helpful response write only plain simple text.`
           }
         ],
         model: 'llama-3.3-70b-versatile',
